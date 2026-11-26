@@ -1,0 +1,6 @@
+{
+  "name": "DFA Smart Traffic & Emergency Ambulance Control",
+  "description": "Theory of Computation capstone demonstrating a formal Deterministic Finite Automaton (DFA) managing four-way traffic signals and verified emergency ambulance routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
